@@ -1,0 +1,15 @@
+.odd {
+    background-color: rgb(238, 89, 151); /* Choose one color */
+    font-family: 'Verdana','DejaVu Sans','sans-serif';
+}
+
+#numtwo {
+    font-size: 36px;
+    color: blue;
+}
+
+#fourth {
+    background-color: rgb(186, 235, 182); /* Choose one color */
+    font-size: 24px;
+    font-weight: bold;
+}
